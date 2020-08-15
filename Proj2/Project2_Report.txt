@@ -1,0 +1,6 @@
+Leon Luo	7219827
+Matthew Tran	53409673
+
+Project 2 Report
+
+We had two buttons that incremented and decremented for each of a section of the time IE, two buttons for changing the hour, two buttons for changing the month, ETC. We also used an additional button to change the display from military time to AM/PM.
